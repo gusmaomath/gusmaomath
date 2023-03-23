@@ -5,10 +5,9 @@
 - ⚡ Fato Curioso: PotterHead
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusmaomath&theme=aura)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gusmaomath&theme=aura) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gusmaomath&theme=aura)
-
+  
 ## Skills
 
 <p align=center>
@@ -17,6 +16,11 @@
   <img alt="Rafa-HTML" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Rafa-CSS" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Rafa-Python" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
+
+&nbsp;
+<p align=center>
+<img src="https://i.gifer.com/6kX.gif" width=512px />
 </p>
 
 ## Contatos
