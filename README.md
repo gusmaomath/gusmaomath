@@ -1,12 +1,12 @@
-## Olá! Eu sou Matheus Gusmão 👋
+## Olá! Eu sou Matheus Gusmão 🧙🏻‍♂️
 
-- 🌱 Cursando Engenharia de Software
-- 😄 Pronomes: Ele/Dele
+- 🖥 Cursando Engenharia de Software
+- 👤 Pronomes: Ele/Dele
 - ⚡ Fato Curioso: PotterHead
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusmaomath&theme=aura)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gusmaomath&theme=aura) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gusmaomath&theme=aura)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusmaomath&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gusmaomath&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gusmaomath&theme=tokyonight)
   
 ## Skills
 
@@ -18,9 +18,8 @@
   <img alt="Rafa-Python" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
 
-&nbsp;
 <p align=center>
-<img src="https://i.gifer.com/6kX.gif" width=512px />
+  <img src="https://i.imgur.com/rn1zR0w.gif)](https://i.imgur.com/rn1zR0w.gif" width=800/>
 </p>
 
 ## Contatos
