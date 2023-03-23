@@ -1,16 +1,28 @@
-### Hi there 👋
+## Olá! Eu sou Matheus Gusmão 👋
 
-<!--
-**gusmaomath/gusmaomath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Cursando Engenharia de Software
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato Curioso: PotterHead
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusmaomath&theme=aura)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gusmaomath&theme=aura) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gusmaomath&theme=aura)
+
+## Skills
+
+<p align=center>
+  <img alt="Rafa-Js" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Rafa-c" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img alt="Rafa-HTML" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Rafa-CSS" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Rafa-Python" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
+
+## Contatos
+
+<div align=center> 
+  <a href="https://instagram.com/matheusgusmao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "cantatogusmaomath@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
